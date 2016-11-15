@@ -1,2 +1,5 @@
 # combined-exercises
-Exercises for the remaining weeks
+
+Try making a pull-request to experiment a little…
+
+
