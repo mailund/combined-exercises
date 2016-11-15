@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# combined-exercises
-
-Try making a pull-request to experiment a little…
-
-
-=======
 # Exercises for the remaining weeks
 
 As per request, this repository contains the exercises for the week on object-oriented programming and the week on R packages as a joint repository. This will also serve as an introduction to handing in solutions via so-called *pull requests* since we are changing the plan for the use of GitHub for exercises anyway.
@@ -66,4 +59,3 @@ This pull request remains open until either I merge it into this repository -- w
 (Strictly speaking it is only changes pushed to the branch that was used in the pull request, but since we are not using branches here it won't matter. You can just push your changes and they should show up on the pull request and I will be informed about them).
 
 I will use the pull request to comment on your code -- I can do that both by adding comment to individual code lines or through general comments, and I can even commit my own changes to your pull request -- and you can add comments to the pull request at any time.
->>>>>>> bioinfau/master
